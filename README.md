@@ -12,8 +12,6 @@ Men C# dasturlash tiliga alohida qiziqaman va shu yo‘nalishda mustahkam tajrib
 
 🔭 **Hozirda o‘rganayotganim**: Web dasturlash (HTML, CSS, JavaScript), PostgreSQL, UI dizayn  
 📌 **Maqsadim**: Portfolio yaratish, haqiqiy loyihalarda ishlash va IT sohasida professional darajaga chiqish  
-📫 **Aloqa uchun email**: us20070607@gmail.com
-
 ---
 
 ### 🛠️ Texnologiyalar va Bilimlarim
@@ -54,9 +52,7 @@ Men C# dasturlash tiliga alohida qiziqaman va shu yo‘nalishda mustahkam tajrib
 
 ### 🤝 Men bilan bog‘laning
 
-- 📧 Email: us20070607@gmail.com  
-- 💼 LinkedIn: *Agar profilingiz bo‘lsa shu yerga qo‘shamiz*
-- 📱 Telegram: *Agar ruxsat bersangiz username bilan qo‘shishimiz mumkin*
+Fecabook :  <a href="https://www.facebook.com/profile.php?id=61577179508263" class="contact-social-link" target="_blank" aria-label="Facebook">
 
 ---
 
