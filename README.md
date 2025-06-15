@@ -7,7 +7,7 @@
 Men 18 yoshli dasturchiman, C#, PostgreSQL, HTML va CSS bo‘yicha tajribam bor. Hozirda frontendni o‘rganmoqdaman va real loyihalar orqali ko‘nikmalarimni rivojlantirmoqdaman.
 
 ## Ko‘nikmalar
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C#]([https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white](https://icons8.com/icon/3852/cs))
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
