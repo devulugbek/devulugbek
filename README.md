@@ -12,7 +12,30 @@ Men C# dasturlash tiliga alohida qiziqaman va shu yo‘nalishda mustahkam tajrib
 
 🔭 **Hozirda o‘rganayotganim**: Web dasturlash (HTML, CSS, JavaScript), PostgreSQL, UI dizayn  
 📌 **Maqsadim**: Portfolio yaratish, haqiqiy loyihalarda ishlash va IT sohasida professional darajaga chiqish  
-📫 **Aloqa uchun email**: us20070607@gmail.com
+ <li>
+                                    <a href="https://www.facebook.com/profile.php?id=61577179508263" class="contact-social-link" target="_blank" aria-label="Facebook">
+                                        <div class="tooltip">Facebook</div>
+                                        <i class="ri-facebook-fill"></i>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="https://x.com/SafarovUlugbekS" class="contact-social-link" target="_blank" aria-label="Twitter-X">
+                                        <div class="tooltip">Twitter-X</div>
+                                        <i class="ri-twitter-x-line"></i>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="https://www.linkedin.com/in/ulug-bekjon-safarov-1a2b112a7/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BiP%2FfTe0BS2mrn7jcNgYAdQ%3D%3D" class="contact-social-link" target="_blank" aria-label="LinkedIn">
+                                        <div class="tooltip">LinkedIn</div>
+                                        <i class="ri-linkedin-fill"></i>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="https://t.me/SafarovU" class="contact-social-link" target="_blank" aria-label="Telegram">
+                                        <div class="tooltip">Telegram</div>
+                                        <i class="ri-telegram-fill"></i>
+                                    </a>
+                                </li>
 
 ---
 
