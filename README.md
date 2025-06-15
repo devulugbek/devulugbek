@@ -1,4 +1,4 @@
-<h1 align="center">👋 Assalomu alaykum, men Ulug'bek Safarovman!</h1>
+<h1 align="center">👋 Assalomu alaykum, Mening ismim Ulug'bek!</h1>
 <p align="center">
   🎓 Aspiring Software Developer | 👨‍💻 C# Specialist | 💡 Problem Solver
 </p>
@@ -7,7 +7,7 @@
 
 ### ✨ Men haqimda
 
-Salom! Men 17 yoshdaman va IT sohasi bo‘yicha o‘z ustimda ishlayotgan, real loyihalar yaratishga intilayotgan yosh dasturchiman.  
+Salom! Men 18 yoshdaman va IT sohasi bo‘yicha o‘z ustimda ishlayotgan, real loyihalar yaratishga intilayotgan yosh dasturchiman.  
 Men C# dasturlash tiliga alohida qiziqaman va shu yo‘nalishda mustahkam tajribaga egaman.
 
 🔭 **Hozirda o‘rganayotganim**: Web dasturlash (HTML, CSS, JavaScript), PostgreSQL, UI dizayn  
