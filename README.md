@@ -1,3 +1,5 @@
+![Header](https://raw.githubusercontent.com/devulugbek/devulugbek/main/assets/header.png)
+
 # Hi there, I'm Ulug'bek 👋  
 
 ## 👨‍💻 About Me  
