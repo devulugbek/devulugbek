@@ -22,6 +22,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devulugbek&layout=compact&theme=radical)  
 
 ---
+![Profile Views](https://komarev.com/ghpvc/?username=devulugbek&color=blue)  
+![Followers](https://img.shields.io/github/followers/devulugbek?label=Followers&style=social)  
+![Stars](https://img.shields.io/github/stars/devulugbek?affiliations=OWNER%2CCOLLABORATOR&style=social)
 
 ## 📫 How to reach me  
 - GitHub: [https://github.com/devulugbek]  
