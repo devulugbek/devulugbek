@@ -19,7 +19,7 @@
 ## 📊 GitHub Stats  
 
 ![Ulugbek's GitHub stats](https://github-readme-stats.vercel.app/api?username=devulugbek&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ulugbekdev&layout=compact&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devulugbek&layout=compact&theme=radical)  
 
 ---
 
