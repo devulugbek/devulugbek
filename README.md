@@ -18,8 +18,8 @@
 
 ## 📊 GitHub Stats  
 
-![Ulug'bek's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)  
+![Ulug'bek's GitHub stats](https://github-readme-stats.vercel.app/api?username=ulugbekdev&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ulugbekdev&layout=compact&theme=radical)  
 
 ---
 
