@@ -43,7 +43,7 @@
 
 ## 🐍 Contribution Graph  
 
-![Snake animation](https://github.com/devulugbek/devulugbek/blob/output/snake.svg)
+![Snake animation](https://raw.githubusercontent.com/devulugbek/devulugbek/main/dist/snake.svg)
 
 ---
 
